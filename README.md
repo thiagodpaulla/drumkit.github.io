@@ -1,7 +1,42 @@
-# drumkit.github.io
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
-Este é o projeto baseado no site java script 30, este é um projeto onde as interaç~eos com o usuario não foram inseridas no html mas sim atravez de manipulção de elementos no dom, também captura de telas e reprodução de son no java script, ele é totalmente flexivel se adptando ao tamanho da tela tb é responsivo em relação ao tamnaho 
+# Hello and welcome to my repository
+## Meet The Drum Kit a project inspired in the java script 30 days charlenger
+![](https://github.com/thiagodpaulla/drumkit.github.io/blob/main/DRUM%20KIT%20.gif)
 
-Manipulando o tamanho da letra do titulo usando  font-size: calc(5vw + 20px); ficando com um tamanho minimo e maximo ja definido mudando de tamanho de acordo com o tamnho do da tela do navegador no momento.
+## Feel free to interact with the project at the link:
+https://thiagodpaulla.github.io/drumkit.github.io/.
 
-uso de ternarios
+## Stretch a little more and, know a little more than I've been doing:
+
+https://thiagodpaulla.github.io/
+
+### Understand a little more about how it was created.
+
+  * [Project](#project)
+  * [Technologies](#technologies)
+  * [License](#license)
+
+# Project
+💻 
+
+This project was inspired by the java script 30 challenge, from the website https://javascript30.com/, this is a project where the interactions with the user were not inserted in the html, but rather through manipulation of elements in the gift, also capturing screens and sound reproduction in java script, it is completely flexible adapting to the screen size.
+
+Manipulating the font size of the title using font-size: calc (5vw + 20px); getting a minimum and maximum size already defined changing size according to the size of the browser screen at the moment.
+
+I used ternaries for comparisons.
+
+# Technologies
+
+🚀 The project was developed using the following technologies
+
+
+➜ JavaScript
+
+➜ HTML
+
+➜ CSS
+
+
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
